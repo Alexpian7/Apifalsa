@@ -35,6 +35,12 @@
       "nombre": "Fifa",
       "pais": "Estados Unidos",
       "capital_bursatil": "765432"
+    },
+    {
+      "id": "7",
+      "nombre": "Meta",
+      "pais": "Estados Unidos",
+      "capital_bursatil": "765432"
     }
   ]
 }
