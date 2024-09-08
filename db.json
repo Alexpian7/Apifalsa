@@ -1,0 +1,40 @@
+{
+  "empresas": [
+    {
+      "id": "1",
+      "nombre": "Aplee",
+      "pais": "Estados Unidos",
+      "capital_bursatil": "881890"
+    },
+    {
+      "id": "2",
+      "nombre": "Microsoft",
+      "pais": "Estados Unidos",
+      "capital_bursatil": "881890"
+    },
+    {
+      "id": "3",
+      "nombre": "Google",
+      "pais": "Estados Unidos",
+      "capital_bursatil": "881890"
+    },
+    {
+      "id": "4",
+      "nombre": "Youtube",
+      "pais": "Estados Unidos",
+      "capital_bursatil": "881890"
+    },
+    {
+      "id": "5",
+      "nombre": "Amazon",
+      "pais": "Estados Unidos",
+      "capital_bursatil": "881890"
+    },
+    {
+      "id": "6",
+      "nombre": "Fifa",
+      "pais": "Estados Unidos",
+      "capital_bursatil": "765432"
+    }
+  ]
+}
